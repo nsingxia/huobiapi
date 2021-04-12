@@ -7,7 +7,7 @@ import (
 
 	"strings"
 
-	"github.com/bitly/go-simplejson"
+	"github.com/nsingxia/go-simplejson"
 	"github.com/stretchr/testify/assert"
 )
 

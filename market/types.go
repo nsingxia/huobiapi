@@ -1,6 +1,6 @@
 package market
 
-import "github.com/bitly/go-simplejson"
+import "github.com/nsingxia/go-simplejson"
 
 type pongData struct {
 	Pong int64 `json:"pong"`

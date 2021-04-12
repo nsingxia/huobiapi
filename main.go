@@ -1,9 +1,9 @@
 package huobiapi
 
 import (
-	"github.com/bitly/go-simplejson"
-	"github.com/leizongmin/huobiapi/client"
-	"github.com/leizongmin/huobiapi/market"
+	simplejson "github.com/nsingxia/go-simplejson"
+	"github.com/nsingxia/huobiapi/client"
+	"github.com/nsingxia/huobiapi/market"
 )
 
 type JSON = simplejson.Json

@@ -9,7 +9,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/bitly/go-simplejson"
+	"github.com/nsingxia/go-simplejson"
 )
 
 func isGetMethod(method string) bool {

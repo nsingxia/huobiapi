@@ -7,9 +7,10 @@ import (
 
 	"math"
 
-	"github.com/bitly/go-simplejson"
-	"github.com/leizongmin/huobiapi/debug"
 	"sync"
+
+	"github.com/nsingxia/go-simplejson"
+	"github.com/nsingxia/huobiapi/debug"
 )
 
 // Endpoint 行情的Websocket入口

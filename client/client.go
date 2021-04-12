@@ -3,7 +3,7 @@ package client
 import (
 	"net/url"
 
-	"github.com/bitly/go-simplejson"
+	"github.com/nsingxia/go-simplejson"
 )
 
 type Client struct {
